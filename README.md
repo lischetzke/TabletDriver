@@ -53,6 +53,7 @@ The GUI minimizes to system tray / notification area. You can reopen the GUI by 
   - XP-Pen Deco 01
   - XP-Pen Deco 01 v2
   - Huion 420
+  - Huion H320M
   - Huion H420
   - Huion H430P
   - Huion H640P
